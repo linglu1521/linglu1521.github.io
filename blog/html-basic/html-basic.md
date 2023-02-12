@@ -49,6 +49,9 @@ Hyper Text Markup Language 超文本标记语言
 <strong>hello world</strong>
 ```
 
+<output>
+    <strong>hello world</strong>
+</output>
 
 
 ## 6、HTML骨架
