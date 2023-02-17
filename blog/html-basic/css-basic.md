@@ -55,7 +55,7 @@ Cascading style sheets
 - CSS写在标签style属性中
 
 ```html
-<div style="color: green"; background-color: #f1f1f1>
+<div style="color: green; background-color: #f1f1f1">
     这是一段设置了css样式的文字
 </div>
 ```
@@ -63,7 +63,7 @@ Cascading style sheets
 
 <output>
 
-<div style="color: green"; background-color: #f1f1f1>
+<div style="color: green; background-color: #f1f1f1">
     这是一段设置了css样式的文字
 </div>
 
