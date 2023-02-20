@@ -19,3 +19,7 @@
 8. [CSS显示模式](/blog/html-basic/css-display.md)
 
 9. [CSS特性](/blog/html-basic/css-features.md)
+
+10.[CSS盒模型](/blog/html-basic/css-box.md)
+
+11.[CSS浮动](/blog/html-basic/css-float.md)

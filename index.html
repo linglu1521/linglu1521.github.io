@@ -7,20 +7,46 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
-  <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/buble.css"> -->
-  <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/dark.css"> -->
-  <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/pure.css">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/dolphin.css"> -->
+  
+  <style>
+    /* 文字大小 */
+    body {
+      font-size: 16px;
+    }
+
+     /* 代码区域文字大小 */
+     .markdown-section
+        > :not(h1):not(h2):not(h3):not(h4):not(h5):not(h6)
+        code {
+        font-size: 0.9rem;
+      }
+
+      .sidebar ul li a {
+        font-size: 14px;
+      }
+
+      :root {
+        --toc-width: 300px;
+      }
+
+      /* 左侧导航 */
+      .sidebar {
+        width: 220px;
+      }
+  </style>
 </head>
 <body>
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: '',
+      name: 'linglu',
       repo: '',
-      loadSidebar: true,  //侧边栏
-      loadNavbar: true   //导航栏
+
+      //侧边栏
+      loadSidebar: true,  
+
+      //导航栏
+      loadNavbar: true,
     }
   </script>
   <!-- Docsify v4 -->
