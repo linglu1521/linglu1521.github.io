@@ -24,6 +24,6 @@
 
 11.[CSS浮动](/blog/html-basic/css-float.md)
 
-12.[CSS定位](/blog/html-basic/css-position.md)
-
 [实战](/blog/html-basic/css-product.md)
+
+12.[CSS定位](/blog/html-basic/css-position.md)
