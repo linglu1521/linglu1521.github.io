@@ -20,10 +20,10 @@
 
 9. [CSS特性](/blog/html-basic/css-features.md)
 
-10.[CSS盒模型](/blog/html-basic/css-box.md)
+10. [CSS盒模型](/blog/html-basic/css-box.md)
 
-11.[CSS浮动](/blog/html-basic/css-float.md)
+11. [CSS浮动](/blog/html-basic/css-float.md)
 
-[实战](/blog/html-basic/css-product.md)
+12. [实战](/blog/html-basic/css-product.md)
 
-12.[CSS定位](/blog/html-basic/css-position.md)
+13. [CSS定位](/blog/html-basic/css-position.md)
