@@ -1,0 +1,28 @@
+<style>
+    .box {
+        width: 400px;
+        height: 400px;
+        background-color: pink;
+        /* 水平居中 */
+        text-align: center;
+    }
+
+    .box::after {
+        height: 100%;
+        content: '';
+        display: inline-block;
+        vertical-align: middle;
+    }
+
+    img {
+        /* 垂直居中 */
+        /* 方式一 */
+        vertical-align: middle;
+        /* 方式二 */
+        /* display: block; */
+    }
+</style>
+
+<div class="box">
+    <img src="./images/bjx.png" alt="">
+</div>

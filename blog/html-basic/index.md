@@ -24,6 +24,8 @@
 
 11. [CSS浮动](/blog/html-basic/css-float.md)
 
-12. [实战](/blog/html-basic/css-product.md)
+12. [CSS定位](/blog/html-basic/css-position.md)
 
-13. [CSS定位](/blog/html-basic/css-position.md)
+13. [CSS装饰](/blog/html-basic/css-decorate.md)
+
+13. [实战](/blog/html-basic/css-product.md)
