@@ -100,7 +100,7 @@ border-radius: 50%;Copy to clipboardErrorCopied
 - 设置边框圆角为高度的一半
 
 ```css
-border-radius: height/2;Copy to clipboardErrorCopied
+border-radius: height/2;
 ```
 
 示例：
